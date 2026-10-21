@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /wp-json/
+Disallow: /wp-includes/
+Disallow: /cdn-cgi/
+Disallow: /_downloads.html
+
+Sitemap: https://tonus.kiev.ua/sitemap.xml

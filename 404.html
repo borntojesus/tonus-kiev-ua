@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Сторінку не знайдено | Тонус Плюс</title>
+<style>
+  :root {
+    --brand: #2173c4;
+    --brand-dark: #1a5c9d;
+    --text: #1f2933;
+    --muted: #52606d;
+    --bg: #f5f8fc;
+    --card: #ffffff;
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 16px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  main {
+    width: 100%;
+    max-width: 480px;
+    background: var(--card);
+    border-radius: 16px;
+    padding: 40px 28px;
+    text-align: center;
+    box-shadow: 0 8px 30px rgba(33, 115, 196, 0.12);
+  }
+  .code {
+    margin: 0 0 8px;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--brand);
+  }
+  h1 { margin: 0 0 8px; font-size: 24px; }
+  .ru { margin: 0 0 28px; color: var(--muted); }
+  .actions { display: flex; flex-direction: column; gap: 12px; align-items: center; }
+  .btn {
+    display: inline-block;
+    padding: 12px 28px;
+    border-radius: 8px;
+    background: var(--brand);
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .btn:hover, .btn:focus-visible { background: var(--brand-dark); }
+  a { color: var(--brand); }
+  .contact {
+    margin: 28px 0 0;
+    padding-top: 20px;
+    border-top: 1px solid #e4e7eb;
+    color: var(--muted);
+    font-size: 15px;
+  }
+  .contact a { font-weight: 600; text-decoration: none; white-space: nowrap; }
+</style>
+</head>
+<body>
+<main>
+  <p class="code">404</p>
+  <h1>Сторінку не знайдено</h1>
+  <p class="ru" lang="ru">Страница не найдена</p>
+  <div class="actions">
+    <a class="btn" href="/">На головну</a>
+    <a href="/uk/home">Головна українською</a>
+  </div>
+  <p class="contact">Центр реабілітації «Тонус Плюс»<br>
+    <a href="tel:+380951046244">095 104 62 44</a></p>
+</main>
+</body>
+</html>
