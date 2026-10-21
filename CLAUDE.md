@@ -14,7 +14,10 @@ lives in the sibling `tonus-astro` repo.
 
 - Framework/CMS: static HTML exported from WordPress (legacy)
 - Package manager: none — do not introduce one
-- Deploy: unknown — TODO (static hosting; `cdn-cgi/` suggests Cloudflare in front)
+- Deploy: Vercel static project (Cloudflare DNS in front). Prod https://tonus.kiev.ua served
+  byte-identical to this repo (verified 2026-10-21). The Vercel project is NOT in the
+  borntojesus-projects team; find the owning account before redeploying. `vercel.json` holds
+  cleanUrls, trailingSlash=false and the uk/ru redirect map.
 
 ## Client-facing copy
 
@@ -26,6 +29,26 @@ Any text the client reads: no dashes as punctuation, run the `humanizer` skill b
 # static files — serve the repo root with any static server, e.g.
 python3 -m http.server 8000
 ```
+
+## SEO maintenance scripts (Python 3 stdlib, run from repo root, idempotent)
+
+```sh
+python3 -I scripts/build-sitemap.py     # regenerates sitemap.xml (skips the 7 redirected root duplicates)
+python3 -I scripts/build-redirects.py   # regenerates the redirects array in vercel.json
+python3 -I scripts/fix-canonicals.py    # absolute canonical / hreflang / og:url in every index.html
+python3 -I scripts/check-site.py        # consistency checks; run after any content change
+```
+
+Run all four after adding, moving or removing a page folder.
+
+## URL structure
+
+- Russian pages: `ru/<slug>/`, Russian home is the root `index.html`.
+- Ukrainian pages: `uk/<slug>/`, Ukrainian home is `uk/home/`.
+- 25 legitimate pages live at root level `<slug>/`; 7 more root folders are duplicates of
+  ru/uk twins and are 301-redirected by vercel.json (kept on disk, excluded from sitemap,
+  canonical points at the twin).
+- Old WordPress root-level Russian URLs (for example `/narkotik-mefedron`) redirect to `/ru/<slug>`.
 
 ## Notes
 
