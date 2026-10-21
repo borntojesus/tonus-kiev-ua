@@ -1,3 +1,9 @@
 astro-site/
 node_modules/
 .git/
+.claude/
+.specify/
+scripts/
+CLAUDE.md
+AGENTS.md
+_downloads.html

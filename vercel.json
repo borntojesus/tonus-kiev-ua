@@ -3,5 +3,2402 @@
   "outputDirectory": ".",
   "framework": null,
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/7-priznakov-psihicheski-zdorovyh-i-silnyh-ljudej",
+      "destination": "/ru/7-priznakov-psihicheski-zdorovyh-i-silnyh-ljudej",
+      "permanent": true
+    },
+    {
+      "source": "/8791",
+      "destination": "/uk/8791",
+      "permanent": true
+    },
+    {
+      "source": "/9345",
+      "destination": "/uk/9345",
+      "permanent": true
+    },
+    {
+      "source": "/alfjorova-elena",
+      "destination": "/ru/alfjorova-elena",
+      "permanent": true
+    },
+    {
+      "source": "/alforov-igor-praktikujuchij-psiholog",
+      "destination": "/uk/alforov-igor-praktikujuchij-psiholog",
+      "permanent": true
+    },
+    {
+      "source": "/alforova-olena-praktikujuchij-psiholog",
+      "destination": "/uk/alforova-olena-praktikujuchij-psiholog",
+      "permanent": true
+    },
+    {
+      "source": "/alkogolizm-i-narkomanija-diagnoz",
+      "destination": "/ru/alkogolizm-i-narkomanija-diagnoz",
+      "permanent": true
+    },
+    {
+      "source": "/alkogolizm-i-narkomanija-ie-diagnozami-takimi-jak-diabet-astma-abo-rak",
+      "destination": "/uk/alkogolizm-i-narkomanija-ie-diagnozami-takimi-jak-diabet-astma-abo-rak",
+      "permanent": true
+    },
+    {
+      "source": "/amfetamin-falshive-pochuttja-shhastja-shho-vede-do-smerti",
+      "destination": "/uk/amfetamin-falshive-pochuttja-shhastja-shho-vede-do-smerti",
+      "permanent": true
+    },
+    {
+      "source": "/amfetamin-fen",
+      "destination": "/ru/amfetamin-fen",
+      "permanent": true
+    },
+    {
+      "source": "/art-terapija",
+      "destination": "/ru/art-terapija",
+      "permanent": true
+    },
+    {
+      "source": "/art-terapija-u-reabilitacijnomu-centri-zalezhnih-tonus-pljus",
+      "destination": "/uk/art-terapija-u-reabilitacijnomu-centri-zalezhnih-tonus-pljus",
+      "permanent": true
+    },
+    {
+      "source": "/art-terapiya",
+      "destination": "/ru/art-terapiya",
+      "permanent": true
+    },
+    {
+      "source": "/azartni-igri-ta-inshi-vidi-zalezhnosti",
+      "destination": "/uk/azartni-igri-ta-inshi-vidi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/azartnye-igry-i-drugie-vidy-zavisimosti",
+      "destination": "/ru/azartnye-igry-i-drugie-vidy-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/bezgluzdi-argumenti-narkomana-ta-alkogolika",
+      "destination": "/uk/bezgluzdi-argumenti-narkomana-ta-alkogolika",
+      "permanent": true
+    },
+    {
+      "source": "/brosit-narkotiki-samostojatelno",
+      "destination": "/ru/brosit-narkotiki-samostojatelno",
+      "permanent": true
+    },
+    {
+      "source": "/buprenorfin",
+      "destination": "/ru/buprenorfin",
+      "permanent": true
+    },
+    {
+      "source": "/buprenorfin-nebezpeka-prijomu-likuvannja",
+      "destination": "/uk/buprenorfin-nebezpeka-prijomu-likuvannja",
+      "permanent": true
+    },
+    {
+      "source": "/buprenorfin-opasnost-priema",
+      "destination": "/ru/buprenorfin-opasnost-priema",
+      "permanent": true
+    },
+    {
+      "source": "/bystrye-narkotiki",
+      "destination": "/ru/bystrye-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/bytovoj-alkogolizm",
+      "destination": "/ru/bytovoj-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/centr-likuvannja-narkomanii-v-kiievi-vidguki-paciientiv",
+      "destination": "/uk/centr-likuvannja-narkomanii-v-kiievi-vidguki-paciientiv",
+      "permanent": true
+    },
+    {
+      "source": "/centr-socialnoi-reabilitacii",
+      "destination": "/uk/centr-socialnoi-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/centr-socialnoj-reabilitacii",
+      "destination": "/ru/centr-socialnoj-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/ceny-na-lechenie-narkomanii",
+      "destination": "/ru/ceny-na-lechenie-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/cepochka-vladislav",
+      "destination": "/ru/cepochka-vladislav",
+      "permanent": true
+    },
+    {
+      "source": "/cepochka-vladislav-dmitrovich-kerivnik-narkologichnogo-centru",
+      "destination": "/uk/cepochka-vladislav-dmitrovich-kerivnik-narkologichnogo-centru",
+      "permanent": true
+    },
+    {
+      "source": "/chasto-zadavaemye-voprosy",
+      "destination": "/ru/chasto-zadavaemye-voprosy",
+      "permanent": true
+    },
+    {
+      "source": "/chasto-zadavani-pitannja",
+      "destination": "/uk/chasto-zadavani-pitannja",
+      "permanent": true
+    },
+    {
+      "source": "/chi-isnuie-medichne-likuvannja-narkomanii",
+      "destination": "/uk/chi-isnuie-medichne-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-narkomanu-ne-mozhna-vzhivati-alkogol",
+      "destination": "/uk/chomu-narkomanu-ne-mozhna-vzhivati-alkogol",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-narkozalezhni-zrivajutsja-2",
+      "destination": "/uk/chomu-narkozalezhni-zrivajutsja-2",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-odni-potrapljajut-u-zalezhnist-inshi-ni",
+      "destination": "/uk/chomu-odni-potrapljajut-u-zalezhnist-inshi-ni",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-reabilitacija-ne-pracjuie",
+      "destination": "/uk/chomu-reabilitacija-ne-pracjuie",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-u-narkomaniv-vidbuvajutsja-zrivi",
+      "destination": "/uk/chomu-u-narkomaniv-vidbuvajutsja-zrivi",
+      "permanent": true
+    },
+    {
+      "source": "/chomu-zvichajni-metodi-reabilitacii-ne-zavzhdi-pracjujut",
+      "destination": "/uk/chomu-zvichajni-metodi-reabilitacii-ne-zavzhdi-pracjujut",
+      "permanent": true
+    },
+    {
+      "source": "/chto-delat-esli-vash-rebjonok-narkoman",
+      "destination": "/ru/chto-delat-esli-vash-rebjonok-narkoman",
+      "permanent": true
+    },
+    {
+      "source": "/chto-delat-zhene-narkomana",
+      "destination": "/ru/chto-delat-zhene-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/chto-podtalkivaet-podrostkov-k-narkotikam",
+      "destination": "/ru/chto-podtalkivaet-podrostkov-k-narkotikam",
+      "permanent": true
+    },
+    {
+      "source": "/chto-takoe-belaja-gorjachka-simptomy-i-posledstvija",
+      "destination": "/ru/chto-takoe-belaja-gorjachka-simptomy-i-posledstvija",
+      "permanent": true
+    },
+    {
+      "source": "/chto-takoe-himicheskaja-zavisimost",
+      "destination": "/ru/chto-takoe-himicheskaja-zavisimost",
+      "permanent": true
+    },
+    {
+      "source": "/chto-takoe-reabilitacija",
+      "destination": "/ru/chto-takoe-reabilitacija",
+      "permanent": true
+    },
+    {
+      "source": "/chto-takoe-snjusy-i-nasvaj",
+      "destination": "/ru/chto-takoe-snjusy-i-nasvaj",
+      "permanent": true
+    },
+    {
+      "source": "/cini-na-likuvannja-narkomanii",
+      "destination": "/uk/cini-na-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/ru/contact",
+      "permanent": true
+    },
+    {
+      "source": "/de-u-kiievi-mozhna-ochistiti-krov-narkomanu",
+      "destination": "/uk/de-u-kiievi-mozhna-ochistiti-krov-narkomanu",
+      "permanent": true
+    },
+    {
+      "source": "/destruktivna-sim-ja-jak-faktor-rozvitku-zalezhnosti",
+      "destination": "/uk/destruktivna-sim-ja-jak-faktor-rozvitku-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/destruktivnaja-semja-kak-faktor-razvitija-zavisimosti",
+      "destination": "/ru/destruktivnaja-semja-kak-faktor-razvitija-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/detoks",
+      "destination": "/ru/detoks",
+      "permanent": true
+    },
+    {
+      "source": "/detoksukr",
+      "destination": "/uk/detoksukr",
+      "permanent": true
+    },
+    {
+      "source": "/detskaja-narkozavisimost",
+      "destination": "/ru/detskaja-narkozavisimost",
+      "permanent": true
+    },
+    {
+      "source": "/dihalna-gimnastika",
+      "destination": "/uk/dihalna-gimnastika",
+      "permanent": true
+    },
+    {
+      "source": "/disfunkcionalna-sim-ja",
+      "destination": "/uk/disfunkcionalna-sim-ja",
+      "permanent": true
+    },
+    {
+      "source": "/disfunkcionalnaja-semja",
+      "destination": "/ru/disfunkcionalnaja-semja",
+      "permanent": true
+    },
+    {
+      "source": "/disfunkcionalnye-neblagopoluchnye-semi",
+      "destination": "/ru/disfunkcionalnye-neblagopoluchnye-semi",
+      "permanent": true
+    },
+    {
+      "source": "/ditjacha-narkozalezhnist",
+      "destination": "/uk/ditjacha-narkozalezhnist",
+      "permanent": true
+    },
+    {
+      "source": "/dizajnerski-vidi-narkotikiv",
+      "destination": "/uk/dizajnerski-vidi-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/dizajnerskie-vidy-narkotikov",
+      "destination": "/ru/dizajnerskie-vidy-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/dnevnik-chuvstv",
+      "destination": "/ru/dnevnik-chuvstv",
+      "permanent": true
+    },
+    {
+      "source": "/dopomoga-spivzalezhnim-i-rodicham-zalezhnogo",
+      "destination": "/uk/dopomoga-spivzalezhnim-i-rodicham-zalezhnogo",
+      "permanent": true
+    },
+    {
+      "source": "/dyhatelnaja-gimnastika",
+      "destination": "/ru/dyhatelnaja-gimnastika",
+      "permanent": true
+    },
+    {
+      "source": "/ekspres-programa-zapusk-28-dniv",
+      "destination": "/uk/ekspres-programa-zapusk-28-dniv",
+      "permanent": true
+    },
+    {
+      "source": "/ekstraversija",
+      "destination": "/uk/ekstraversija",
+      "permanent": true
+    },
+    {
+      "source": "/etapi-oduzhannja",
+      "destination": "/uk/etapi-oduzhannja",
+      "permanent": true
+    },
+    {
+      "source": "/formirovanie-privychki",
+      "destination": "/ru/formirovanie-privychki",
+      "permanent": true
+    },
+    {
+      "source": "/formirovanie-zavisimosti-simptomy-upotreblenija",
+      "destination": "/ru/formirovanie-zavisimosti-simptomy-upotreblenija",
+      "permanent": true
+    },
+    {
+      "source": "/formuvannja-zalezhnosti-simptomi-vzhivannja",
+      "destination": "/uk/formuvannja-zalezhnosti-simptomi-vzhivannja",
+      "permanent": true
+    },
+    {
+      "source": "/forum-lechenija-narkomanii",
+      "destination": "/ru/forum-lechenija-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/forum-likuvannja-narkomanii",
+      "destination": "/uk/forum-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/genetika",
+      "destination": "/uk/genetika",
+      "permanent": true
+    },
+    {
+      "source": "/grupovi-zanjattja-u-procesi-oduzhannja",
+      "destination": "/uk/grupovi-zanjattja-u-procesi-oduzhannja",
+      "permanent": true
+    },
+    {
+      "source": "/gruppovye-zanjatija-v-processe-vyzdorovlenija",
+      "destination": "/ru/gruppovye-zanjatija-v-processe-vyzdorovlenija",
+      "permanent": true
+    },
+    {
+      "source": "/himicheskaja-zavisimost",
+      "destination": "/ru/himicheskaja-zavisimost",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/uk/home",
+      "permanent": true
+    },
+    {
+      "source": "/hto-taka-zalezhna-ljudina",
+      "destination": "/uk/hto-taka-zalezhna-ljudina",
+      "permanent": true
+    },
+    {
+      "source": "/hto-takij-volonter",
+      "destination": "/uk/hto-takij-volonter",
+      "permanent": true
+    },
+    {
+      "source": "/iljuzija-narkomaniv",
+      "destination": "/uk/iljuzija-narkomaniv",
+      "permanent": true
+    },
+    {
+      "source": "/illjuzija-narkomanov",
+      "destination": "/ru/illjuzija-narkomanov",
+      "permanent": true
+    },
+    {
+      "source": "/individualnij-pidhid",
+      "destination": "/uk/individualnij-pidhid",
+      "permanent": true
+    },
+    {
+      "source": "/individualnyj-podhod",
+      "destination": "/ru/individualnyj-podhod",
+      "permanent": true
+    },
+    {
+      "source": "/intervencija-jak-metod-perekonannja",
+      "destination": "/uk/intervencija-jak-metod-perekonannja",
+      "permanent": true
+    },
+    {
+      "source": "/intervencija-kak-metod-ubezhdenija",
+      "destination": "/ru/intervencija-kak-metod-ubezhdenija",
+      "permanent": true
+    },
+    {
+      "source": "/istorija-moej-bolezni",
+      "destination": "/ru/istorija-moej-bolezni",
+      "permanent": true
+    },
+    {
+      "source": "/istorija-moiei-hvorobi-vid-pochatku-etapiv-formuvannja-do-reabilitacii",
+      "destination": "/uk/istorija-moiei-hvorobi-vid-pochatku-etapiv-formuvannja-do-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/jak-dopomogti-narkomanu",
+      "destination": "/uk/jak-dopomogti-narkomanu",
+      "permanent": true
+    },
+    {
+      "source": "/jak-kinuti-piti-alkogol",
+      "destination": "/uk/jak-kinuti-piti-alkogol",
+      "permanent": true
+    },
+    {
+      "source": "/jak-kinuti-vzhivati-narkotik-sil",
+      "destination": "/uk/jak-kinuti-vzhivati-narkotik-sil",
+      "permanent": true
+    },
+    {
+      "source": "/jak-marihuana-vplivaie-na-organizm-ljudini-shkoda-kanabisu",
+      "destination": "/uk/jak-marihuana-vplivaie-na-organizm-ljudini-shkoda-kanabisu",
+      "permanent": true
+    },
+    {
+      "source": "/jak-ochistiti-organizm-vid-narkotikiv",
+      "destination": "/uk/jak-ochistiti-organizm-vid-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/jak-polegshiti-vidhid-vid-fena-amfetaminu-shvidkisti",
+      "destination": "/uk/jak-polegshiti-vidhid-vid-fena-amfetaminu-shvidkisti",
+      "permanent": true
+    },
+    {
+      "source": "/jak-pracjuie-mozok-pri-vzhivanni-narkotikiv",
+      "destination": "/uk/jak-pracjuie-mozok-pri-vzhivanni-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/jak-rozpiznati-narkomana",
+      "destination": "/uk/jak-rozpiznati-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/jak-rozpiznati-solovogo-narkomana",
+      "destination": "/uk/jak-rozpiznati-solovogo-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/jak-vijti-z-depresii-pislja-narkotikiv",
+      "destination": "/uk/jak-vijti-z-depresii-pislja-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/jak-vilikuvati-narkomana-chi-alkogolika-chi-ie-pracjujuchi-metodi-likuvannja-narkomanii",
+      "destination": "/uk/jak-vilikuvati-narkomana-chi-alkogolika-chi-ie-pracjujuchi-metodi-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/jak-vipraviti-spotvorennja-mislennja",
+      "destination": "/uk/jak-vipraviti-spotvorennja-mislennja",
+      "permanent": true
+    },
+    {
+      "source": "/jak-viznachiti-zalezhnogo-vid-narkotikiv-shhob-svoiechasno-dopomogti-jomu",
+      "destination": "/uk/jak-viznachiti-zalezhnogo-vid-narkotikiv-shhob-svoiechasno-dopomogti-jomu",
+      "permanent": true
+    },
+    {
+      "source": "/jak-vmoviti-alkogolika-projti-reabilitaciju",
+      "destination": "/uk/jak-vmoviti-alkogolika-projti-reabilitaciju",
+      "permanent": true
+    },
+    {
+      "source": "/jak-vzhivannja-narkotikiv-vplivaie-na-mozok",
+      "destination": "/uk/jak-vzhivannja-narkotikiv-vplivaie-na-mozok",
+      "permanent": true
+    },
+    {
+      "source": "/jak-zapobigti-zrivu-recidivu-i-vporatisja-z-nim",
+      "destination": "/uk/jak-zapobigti-zrivu-recidivu-i-vporatisja-z-nim",
+      "permanent": true
+    },
+    {
+      "source": "/jak-znimati-pohmillja-simptomi-liki-ta-domashni-zasobi",
+      "destination": "/uk/jak-znimati-pohmillja-simptomi-liki-ta-domashni-zasobi",
+      "permanent": true
+    },
+    {
+      "source": "/jakshho-vash-blizkij-potrapiv-u-kolo-narkozalezhnosti-i-hoche-z-nogo-vijti-to-vam-potribno-dopomogti-v-comu",
+      "destination": "/uk/jakshho-vash-blizkij-potrapiv-u-kolo-narkozalezhnosti-i-hoche-z-nogo-vijti-to-vam-potribno-dopomogti-v-comu",
+      "permanent": true
+    },
+    {
+      "source": "/jekspress-programma-28-dnej",
+      "destination": "/ru/jekspress-programma-28-dnej",
+      "permanent": true
+    },
+    {
+      "source": "/jekstraversija",
+      "destination": "/ru/jekstraversija",
+      "permanent": true
+    },
+    {
+      "source": "/jemocionalnoe-vygoranie",
+      "destination": "/ru/jemocionalnoe-vygoranie",
+      "permanent": true
+    },
+    {
+      "source": "/jetapy-vyzdorovlenija",
+      "destination": "/ru/jetapy-vyzdorovlenija",
+      "permanent": true
+    },
+    {
+      "source": "/kak-brosit-pit-alkogol",
+      "destination": "/ru/kak-brosit-pit-alkogol",
+      "permanent": true
+    },
+    {
+      "source": "/kak-brosit-upotrebljat-sol",
+      "destination": "/ru/kak-brosit-upotrebljat-sol",
+      "permanent": true
+    },
+    {
+      "source": "/kak-ispravit-iskazhenija-myshlenija",
+      "destination": "/ru/kak-ispravit-iskazhenija-myshlenija",
+      "permanent": true
+    },
+    {
+      "source": "/kak-izbezhat-sryva",
+      "destination": "/ru/kak-izbezhat-sryva",
+      "permanent": true
+    },
+    {
+      "source": "/kak-my-uznaem-novuju-informaciju",
+      "destination": "/ru/kak-my-uznaem-novuju-informaciju",
+      "permanent": true
+    },
+    {
+      "source": "/kak-oblegchit-othod-ot-fena-amfetimina-spidov",
+      "destination": "/ru/kak-oblegchit-othod-ot-fena-amfetimina-spidov",
+      "permanent": true
+    },
+    {
+      "source": "/kak-ochistit-organizm-ot-narkotikov",
+      "destination": "/ru/kak-ochistit-organizm-ot-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/kak-opredelit-narkomana",
+      "destination": "/ru/kak-opredelit-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/kak-pomoch-narkomanu",
+      "destination": "/ru/kak-pomoch-narkomanu",
+      "permanent": true
+    },
+    {
+      "source": "/kak-raspoznat-narkomana",
+      "destination": "/ru/kak-raspoznat-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/kak-raspoznat-solevogo-narkomana",
+      "destination": "/ru/kak-raspoznat-solevogo-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/kak-snimat-pohmele-simptomy-lekarstva-i-domashnie-sredstva",
+      "destination": "/ru/kak-snimat-pohmele-simptomy-lekarstva-i-domashnie-sredstva",
+      "permanent": true
+    },
+    {
+      "source": "/kak-ugovorit-alkogolika-projti-reabilitaciju",
+      "destination": "/ru/kak-ugovorit-alkogolika-projti-reabilitaciju",
+      "permanent": true
+    },
+    {
+      "source": "/kak-upotreblenie-narkotikov-vlijaet-na-mozg",
+      "destination": "/ru/kak-upotreblenie-narkotikov-vlijaet-na-mozg",
+      "permanent": true
+    },
+    {
+      "source": "/kak-vyjti-iz-depressii-posle-narkotikov",
+      "destination": "/ru/kak-vyjti-iz-depressii-posle-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/kapelnica-ot-narkotikov",
+      "destination": "/ru/kapelnica-ot-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/kinuti-narkotiki-samostijno",
+      "destination": "/uk/kinuti-narkotiki-samostijno",
+      "permanent": true
+    },
+    {
+      "source": "/kochetkov-andrej",
+      "destination": "/ru/kochetkov-andrej",
+      "permanent": true
+    },
+    {
+      "source": "/kochetkov-andrij-likar-narkolog",
+      "destination": "/uk/kochetkov-andrij-likar-narkolog",
+      "permanent": true
+    },
+    {
+      "source": "/kodeinosoderzhashhie-preparaty",
+      "destination": "/ru/kodeinosoderzhashhie-preparaty",
+      "permanent": true
+    },
+    {
+      "source": "/kodeinovmisni-preparati",
+      "destination": "/uk/kodeinovmisni-preparati",
+      "permanent": true
+    },
+    {
+      "source": "/kodterpin",
+      "destination": "/ru/kodterpin",
+      "permanent": true
+    },
+    {
+      "source": "/kodterpin-smert-legalno-ta-deshevo",
+      "destination": "/uk/kodterpin-smert-legalno-ta-deshevo",
+      "permanent": true
+    },
+    {
+      "source": "/kognitivnij-disonans",
+      "destination": "/uk/kognitivnij-disonans",
+      "permanent": true
+    },
+    {
+      "source": "/kognitivnyj-dissonans",
+      "destination": "/ru/kognitivnyj-dissonans",
+      "permanent": true
+    },
+    {
+      "source": "/kolesnikov-aleksej",
+      "destination": "/ru/kolesnikov-aleksej",
+      "permanent": true
+    },
+    {
+      "source": "/kolesnikov-oleksij-vasilovich-konsultant-psiholog",
+      "destination": "/uk/kolesnikov-oleksij-vasilovich-konsultant-psiholog",
+      "permanent": true
+    },
+    {
+      "source": "/kompulsivna-povedinka",
+      "destination": "/uk/kompulsivna-povedinka",
+      "permanent": true
+    },
+    {
+      "source": "/kompulsivnoe-povedenie",
+      "destination": "/ru/kompulsivnoe-povedenie",
+      "permanent": true
+    },
+    {
+      "source": "/koncepcija-oduzhannja-vid-narkomanii-ta-alkogolizmu",
+      "destination": "/uk/koncepcija-oduzhannja-vid-narkomanii-ta-alkogolizmu",
+      "permanent": true
+    },
+    {
+      "source": "/koncepcija-vyzdorovlenija-ot-narkomanii-i-alkogolizma",
+      "destination": "/ru/koncepcija-vyzdorovlenija-ot-narkomanii-i-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/konsultacii-dlja-zalezhnih-ta-spivzalezhnih-po-rajonam-kiieva-ta-mistam",
+      "destination": "/uk/konsultacii-dlja-zalezhnih-ta-spivzalezhnih-po-rajonam-kiieva-ta-mistam",
+      "permanent": true
+    },
+    {
+      "source": "/kontakti",
+      "destination": "/uk/kontakti",
+      "permanent": true
+    },
+    {
+      "source": "/kontominacija",
+      "destination": "/ru/kontominacija",
+      "permanent": true
+    },
+    {
+      "source": "/krapelnicja-vid-narkotikiv",
+      "destination": "/uk/krapelnicja-vid-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/krik-dushi",
+      "destination": "/ru/krik-dushi",
+      "permanent": true
+    },
+    {
+      "source": "/kriptovaljuta-bitkojn-lovushka",
+      "destination": "/ru/kriptovaljuta-bitkojn-lovushka",
+      "permanent": true
+    },
+    {
+      "source": "/kto-takoj-volontjor",
+      "destination": "/ru/kto-takoj-volontjor",
+      "permanent": true
+    },
+    {
+      "source": "/kto-takoj-zavisimyj-chelovek",
+      "destination": "/ru/kto-takoj-zavisimyj-chelovek",
+      "permanent": true
+    },
+    {
+      "source": "/kuda-sdat-narkomana",
+      "destination": "/ru/kuda-sdat-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/kudi-pomistiti-narkomana-na-likuvannja",
+      "destination": "/uk/kudi-pomistiti-narkomana-na-likuvannja",
+      "permanent": true
+    },
+    {
+      "source": "/kushnir-ilja",
+      "destination": "/ru/kushnir-ilja",
+      "permanent": true
+    },
+    {
+      "source": "/kushnir-illja-volodimirovich-konsultant-psiholog",
+      "destination": "/uk/kushnir-illja-volodimirovich-konsultant-psiholog",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-alkogolnoj-zavisimosti",
+      "destination": "/ru/lechenie-alkogolnoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-amfetamin-v-brovarah",
+      "destination": "/ru/lechenie-amfetamin-v-brovarah",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-amfetaminovoj-zavisimosti",
+      "destination": "/ru/lechenie-amfetaminovoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-buprenorfinovoj-zavisimosti",
+      "destination": "/ru/lechenie-buprenorfinovoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-igromanii-kiev",
+      "destination": "/ru/lechenie-igromanii-kiev",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-metadon-zavisimosti-v-ukraine",
+      "destination": "/ru/lechenie-metadon-zavisimosti-v-ukraine",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-nalbufinovoj-zavisimosti",
+      "destination": "/ru/lechenie-nalbufinovoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii",
+      "destination": "/ru/lechenie-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-besplatno",
+      "destination": "/ru/lechenie-narkomanii-besplatno",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-bez-soglasija",
+      "destination": "/ru/lechenie-narkomanii-bez-soglasija",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-darnica",
+      "destination": "/ru/lechenie-narkomanii-darnica",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-dneprovskij-rajon",
+      "destination": "/ru/lechenie-narkomanii-dneprovskij-rajon",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-dom-usloviya",
+      "destination": "/ru/lechenie-narkomanii-dom-usloviya",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-doma",
+      "destination": "/ru/lechenie-narkomanii-doma",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-irpen",
+      "destination": "/ru/lechenie-narkomanii-irpen",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-krivoj-rog",
+      "destination": "/ru/lechenie-narkomanii-krivoj-rog",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-obolon",
+      "destination": "/ru/lechenie-narkomanii-obolon",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-otzyvy-artem",
+      "destination": "/ru/lechenie-narkomanii-otzyvy-artem",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-pechersk",
+      "destination": "/ru/lechenie-narkomanii-pechersk",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-psihiatrija",
+      "destination": "/ru/lechenie-narkomanii-psihiatrija",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-raiony",
+      "destination": "/ru/lechenie-narkomanii-raiony",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-svjatoshino",
+      "destination": "/ru/lechenie-narkomanii-svjatoshino",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-troeshhina",
+      "destination": "/ru/lechenie-narkomanii-troeshhina",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-borispole",
+      "destination": "/ru/lechenie-narkomanii-v-borispole",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-brovarah",
+      "destination": "/ru/lechenie-narkomanii-v-brovarah",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-kiev-otzyvy-aleksandr",
+      "destination": "/ru/lechenie-narkomanii-v-kiev-otzyvy-aleksandr",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-obuhove",
+      "destination": "/ru/lechenie-narkomanii-v-obuhove",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-shevchenkovskom-rajone",
+      "destination": "/ru/lechenie-narkomanii-v-shevchenkovskom-rajone",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-narkomanii-v-vyshgorode",
+      "destination": "/ru/lechenie-narkomanii-v-vyshgorode",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-ot-amfetamina",
+      "destination": "/ru/lechenie-ot-amfetamina",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-ot-amfetamina-vide-obzor",
+      "destination": "/ru/lechenie-ot-amfetamina-vide-obzor",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-ot-kratom",
+      "destination": "/ru/lechenie-ot-kratom",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-ot-metadonovoj-zavisimosti",
+      "destination": "/ru/lechenie-ot-metadonovoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-ot-spajsov",
+      "destination": "/ru/lechenie-ot-spajsov",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-otradniy",
+      "destination": "/ru/lechenie-otradniy",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-psihiki-posle-narkotikov",
+      "destination": "/ru/lechenie-psihiki-posle-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-solevoy-zavisimosti",
+      "destination": "/ru/lechenie-solevoy-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-zavisimosti-ot-marihuany",
+      "destination": "/ru/lechenie-zavisimosti-ot-marihuany",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-zavisimosti-ot-mdma",
+      "destination": "/ru/lechenie-zavisimosti-ot-mdma",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-zavisimosti-ot-mefedrona",
+      "destination": "/ru/lechenie-zavisimosti-ot-mefedrona",
+      "permanent": true
+    },
+    {
+      "source": "/lechenie-zhenskogo-alkogolizma",
+      "destination": "/ru/lechenie-zhenskogo-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/legalizacija-marihuani",
+      "destination": "/uk/legalizacija-marihuani",
+      "permanent": true
+    },
+    {
+      "source": "/legalizacija-marihuany",
+      "destination": "/ru/legalizacija-marihuany",
+      "permanent": true
+    },
+    {
+      "source": "/lekarstva-ot-lomki",
+      "destination": "/ru/lekarstva-ot-lomki",
+      "permanent": true
+    },
+    {
+      "source": "/lichnostnye-adaptacii-pri-formirovanii-himicheskoj-zavisimosti-i-igromanii",
+      "destination": "/ru/lichnostnye-adaptacii-pri-formirovanii-himicheskoj-zavisimosti-i-igromanii",
+      "permanent": true
+    },
+    {
+      "source": "/likar-narkolog-dodomu-u-kiievi",
+      "destination": "/uk/likar-narkolog-dodomu-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/liki-vid-lomki-narkomana",
+      "destination": "/uk/liki-vid-lomki-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/likuvalno-osvitnja-programa-perezavantazhennja-na-90-dniv-dlja-zalezhnih-vid-narkotikiv-ta-alkogolju-ljudej",
+      "destination": "/uk/likuvalno-osvitnja-programa-perezavantazhennja-na-90-dniv-dlja-zalezhnih-vid-narkotikiv-ta-alkogolju-ljudej",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-alkogolnoi-zalezhnosti-u-kiievi",
+      "destination": "/uk/likuvannja-alkogolnoi-zalezhnosti-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-amfetaminovoi-zalezhnosti",
+      "destination": "/uk/likuvannja-amfetaminovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-amfetaminovoi-zalezhnosti-u-brovarah",
+      "destination": "/uk/likuvannja-amfetaminovoi-zalezhnosti-u-brovarah",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-buprenorfinovoi-zalezhnosti",
+      "destination": "/uk/likuvannja-buprenorfinovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-igromanii-kiiv",
+      "destination": "/uk/likuvannja-igromanii-kiiv",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-metadonovoi-zalezhnosti-v-ukraini",
+      "destination": "/uk/likuvannja-metadonovoi-zalezhnosti-v-ukraini",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-bez-zgodi",
+      "destination": "/uk/likuvannja-narkomanii-bez-zgodi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-bezkoshtovno",
+      "destination": "/uk/likuvannja-narkomanii-bezkoshtovno",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-dniprovskij-rajon-harkivskij-poznjaki-osokorki",
+      "destination": "/uk/likuvannja-narkomanii-dniprovskij-rajon-harkivskij-poznjaki-osokorki",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-irpin",
+      "destination": "/uk/likuvannja-narkomanii-irpin",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-na-vidradnomu-rajoni-u-kiievi",
+      "destination": "/uk/likuvannja-narkomanii-na-vidradnomu-rajoni-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-pecherskij-rajon",
+      "destination": "/uk/likuvannja-narkomanii-pecherskij-rajon",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-psihiatrija",
+      "destination": "/uk/likuvannja-narkomanii-psihiatrija",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-troieshhina",
+      "destination": "/uk/likuvannja-narkomanii-troieshhina",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-borispoli",
+      "destination": "/uk/likuvannja-narkomanii-u-borispoli",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-brovarah",
+      "destination": "/uk/likuvannja-narkomanii-u-brovarah",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-darnickomu-rajoni-kiieva",
+      "destination": "/uk/likuvannja-narkomanii-u-darnickomu-rajoni-kiieva",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-kiievi-vidguki-artem",
+      "destination": "/uk/likuvannja-narkomanii-u-kiievi-vidguki-artem",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-kiievi-vidguki-eduard",
+      "destination": "/uk/likuvannja-narkomanii-u-kiievi-vidguki-eduard",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-krivomu-rozi",
+      "destination": "/uk/likuvannja-narkomanii-u-krivomu-rozi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-shevchenkivskomu-rajoni-kiieva",
+      "destination": "/uk/likuvannja-narkomanii-u-shevchenkivskomu-rajoni-kiieva",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-u-vishgorodi",
+      "destination": "/uk/likuvannja-narkomanii-u-vishgorodi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-domashnih-umovah",
+      "destination": "/uk/likuvannja-narkomanii-v-domashnih-umovah",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-domashnih-umovah-jak-dopomogti-zalezhnomu",
+      "destination": "/uk/likuvannja-narkomanii-v-domashnih-umovah-jak-dopomogti-zalezhnomu",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-kiievi-vidguk-mikoli",
+      "destination": "/uk/likuvannja-narkomanii-v-kiievi-vidguk-mikoli",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-obolonskomu-rajoni",
+      "destination": "/uk/likuvannja-narkomanii-v-obolonskomu-rajoni",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-obuhovi",
+      "destination": "/uk/likuvannja-narkomanii-v-obuhovi",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-narkomanii-v-svjatoshinskomu-rajoni-kiieva",
+      "destination": "/uk/likuvannja-narkomanii-v-svjatoshinskomu-rajoni-kiieva",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-psihiki-pislja-vzhivannja-narkotikiv",
+      "destination": "/uk/likuvannja-psihiki-pislja-vzhivannja-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-vid-amfetaminovoi-zalezhnosti",
+      "destination": "/uk/likuvannja-vid-amfetaminovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-vid-amfetaminu-video-ogljad",
+      "destination": "/uk/likuvannja-vid-amfetaminu-video-ogljad",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-vid-kratom",
+      "destination": "/uk/likuvannja-vid-kratom",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-vid-nalbufinovoi-zalezhnosti",
+      "destination": "/uk/likuvannja-vid-nalbufinovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-zalezhnosti-vid-marihuani",
+      "destination": "/uk/likuvannja-zalezhnosti-vid-marihuani",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-zalezhnosti-vid-mdma",
+      "destination": "/uk/likuvannja-zalezhnosti-vid-mdma",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-zalezhnosti-vid-mefedronu",
+      "destination": "/uk/likuvannja-zalezhnosti-vid-mefedronu",
+      "permanent": true
+    },
+    {
+      "source": "/likuvannja-zhinochogo-alkogolizmu-vivedennja-iz-zapoju",
+      "destination": "/uk/likuvannja-zhinochogo-alkogolizmu-vivedennja-iz-zapoju",
+      "permanent": true
+    },
+    {
+      "source": "/lirika",
+      "destination": "/ru/lirika",
+      "permanent": true
+    },
+    {
+      "source": "/ljubimye-lekarstva-narkomana",
+      "destination": "/ru/ljubimye-lekarstva-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/lomka-abo-sindrom-vidmini",
+      "destination": "/uk/lomka-abo-sindrom-vidmini",
+      "permanent": true
+    },
+    {
+      "source": "/lomka-ili-sindrom-otmeny",
+      "destination": "/ru/lomka-ili-sindrom-otmeny",
+      "permanent": true
+    },
+    {
+      "source": "/lomka-narkomana-chto-delat",
+      "destination": "/ru/lomka-narkomana-chto-delat",
+      "permanent": true
+    },
+    {
+      "source": "/lomka-narkomana-shho-robiti",
+      "destination": "/uk/lomka-narkomana-shho-robiti",
+      "permanent": true
+    },
+    {
+      "source": "/marihuana-vred",
+      "destination": "/ru/marihuana-vred",
+      "permanent": true
+    },
+    {
+      "source": "/medichna-detoksikacija",
+      "destination": "/uk/medichna-detoksikacija",
+      "permanent": true
+    },
+    {
+      "source": "/medicinskaja-detoksikacija",
+      "destination": "/ru/medicinskaja-detoksikacija",
+      "permanent": true
+    },
+    {
+      "source": "/medikamentozne-likuvannja-narkomanii",
+      "destination": "/uk/medikamentozne-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/medikamentoznoe-lechenie-narkomanii",
+      "destination": "/ru/medikamentoznoe-lechenie-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/metadon",
+      "destination": "/ru/metadon",
+      "permanent": true
+    },
+    {
+      "source": "/metody-reabilitacii-ne-vsegda-rabotajut",
+      "destination": "/ru/metody-reabilitacii-ne-vsegda-rabotajut",
+      "permanent": true
+    },
+    {
+      "source": "/misija-oduzhannja",
+      "destination": "/uk/misija-oduzhannja",
+      "permanent": true
+    },
+    {
+      "source": "/missija-vyzdorovlenija",
+      "destination": "/ru/missija-vyzdorovlenija",
+      "permanent": true
+    },
+    {
+      "source": "/motivacija-blizkogo-na-lechenie",
+      "destination": "/ru/motivacija-blizkogo-na-lechenie",
+      "permanent": true
+    },
+    {
+      "source": "/motivacija-na-likuvannja-blizkoi-ljudini",
+      "destination": "/uk/motivacija-na-likuvannja-blizkoi-ljudini",
+      "permanent": true
+    },
+    {
+      "source": "/mozg-pri",
+      "destination": "/ru/mozg-pri",
+      "permanent": true
+    },
+    {
+      "source": "/mvd-podderzhalo-dejatelnost-cerkovnyh-centrov-reabilitacii-narkozavisimyh",
+      "destination": "/ru/mvd-podderzhalo-dejatelnost-cerkovnyh-centrov-reabilitacii-narkozavisimyh",
+      "permanent": true
+    },
+    {
+      "source": "/mvs-pidtrimalo-dijalnist-cerkovnih-centriv-reabilitacii-narkozalezhnih",
+      "destination": "/uk/mvs-pidtrimalo-dijalnist-cerkovnih-centriv-reabilitacii-narkozalezhnih",
+      "permanent": true
+    },
+    {
+      "source": "/narkolog-na-dim-u-kiievi",
+      "destination": "/uk/narkolog-na-dim-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/narkolog-na-dom-v-kieve",
+      "destination": "/ru/narkolog-na-dom-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/narkologicheskaja-pomoshh",
+      "destination": "/ru/narkologicheskaja-pomoshh",
+      "permanent": true
+    },
+    {
+      "source": "/narkologichna-dopomoga-u-kiievi",
+      "destination": "/uk/narkologichna-dopomoga-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-chto-jeto",
+      "destination": "/ru/narkomanija-chto-jeto",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-i-alkogolizm-jeto-problema",
+      "destination": "/ru/narkomanija-i-alkogolizm-jeto-problema",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-shho-ce",
+      "destination": "/uk/narkomanija-shho-ce",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-ta-alkogolizm-ce-problema",
+      "destination": "/uk/narkomanija-ta-alkogolizm-ce-problema",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-u-voiennij-chas-v-ukraini",
+      "destination": "/uk/narkomanija-u-voiennij-chas-v-ukraini",
+      "permanent": true
+    },
+    {
+      "source": "/narkomanija-v-voennoe-vremja-v-ukraine",
+      "destination": "/ru/narkomanija-v-voennoe-vremja-v-ukraine",
+      "permanent": true
+    },
+    {
+      "source": "/narkoticheskaja-zavisimost-ot-pregabalina",
+      "destination": "/ru/narkoticheskaja-zavisimost-ot-pregabalina",
+      "permanent": true
+    },
+    {
+      "source": "/narkotichna-zalezhnist-vid-pregabalinu",
+      "destination": "/uk/narkotichna-zalezhnist-vid-pregabalinu",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-mefedron",
+      "destination": "/ru/narkotik-mefedron",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-metadon",
+      "destination": "/ru/narkotik-metadon",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-metadon-naslidki-lomka",
+      "destination": "/uk/narkotik-metadon-naslidki-lomka",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-soli-dlja-vann",
+      "destination": "/ru/narkotik-soli-dlja-vann",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-soli-dlja-vann-efekti-simptomi-ta-naslidki",
+      "destination": "/uk/narkotik-soli-dlja-vann-efekti-simptomi-ta-naslidki",
+      "permanent": true
+    },
+    {
+      "source": "/narkotik-veseljashhij-gaz",
+      "destination": "/ru/narkotik-veseljashhij-gaz",
+      "permanent": true
+    },
+    {
+      "source": "/naslidki-alkogolizmu",
+      "destination": "/uk/naslidki-alkogolizmu",
+      "permanent": true
+    },
+    {
+      "source": "/naslidki-narkomanii",
+      "destination": "/uk/naslidki-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/naslidki-vid-vzhivannja-solej",
+      "destination": "/uk/naslidki-vid-vzhivannja-solej",
+      "permanent": true
+    },
+    {
+      "source": "/naslidki-vzhivannja-narkotikiv",
+      "destination": "/uk/naslidki-vzhivannja-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/naslidki-vzhivannja-narkotikiv-2",
+      "destination": "/uk/naslidki-vzhivannja-narkotikiv-2",
+      "permanent": true
+    },
+    {
+      "source": "/nelepye-argumenty-narkomana-i-alkogolika",
+      "destination": "/ru/nelepye-argumenty-narkomana-i-alkogolika",
+      "permanent": true
+    },
+    {
+      "source": "/novi-vidi-narkotikiv",
+      "destination": "/uk/novi-vidi-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/novi-vidi-narkotikiv-v-ukraini-2021-2022",
+      "destination": "/uk/novi-vidi-narkotikiv-v-ukraini-2021-2022",
+      "permanent": true
+    },
+    {
+      "source": "/novye-vidy-narkotikov",
+      "destination": "/ru/novye-vidy-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/novye-vidy-narkotikov-v-ukraine-2021-2022",
+      "destination": "/ru/novye-vidy-narkotikov-v-ukraine-2021-2022",
+      "permanent": true
+    },
+    {
+      "source": "/o-nas",
+      "destination": "/ru/o-nas",
+      "permanent": true
+    },
+    {
+      "source": "/ochistit-krov-narkomanu",
+      "destination": "/ru/ochistit-krov-narkomanu",
+      "permanent": true
+    },
+    {
+      "source": "/odnogo-reshenija-ne-upotrebljat-nedostatochno",
+      "destination": "/ru/odnogo-reshenija-ne-upotrebljat-nedostatochno",
+      "permanent": true
+    },
+    {
+      "source": "/odnogo-rishennja-ne-vzhivati-nedostatno",
+      "destination": "/uk/odnogo-rishennja-ne-vzhivati-nedostatno",
+      "permanent": true
+    },
+    {
+      "source": "/opravdanija-alkogolika",
+      "destination": "/ru/opravdanija-alkogolika",
+      "permanent": true
+    },
+    {
+      "source": "/oshibki-myshlenija-u-zavisimogo-cheloveka",
+      "destination": "/ru/oshibki-myshlenija-u-zavisimogo-cheloveka",
+      "permanent": true
+    },
+    {
+      "source": "/othod-ot-amfetamina-fena",
+      "destination": "/ru/othod-ot-amfetamina-fena",
+      "permanent": true
+    },
+    {
+      "source": "/otricanija-zavisimymi-v-vyzdorovlenii",
+      "destination": "/ru/otricanija-zavisimymi-v-vyzdorovlenii",
+      "permanent": true
+    },
+    {
+      "source": "/otsutstvie-zhelanie-na-lechenie",
+      "destination": "/ru/otsutstvie-zhelanie-na-lechenie",
+      "permanent": true
+    },
+    {
+      "source": "/otzyv-igor",
+      "destination": "/ru/otzyv-igor",
+      "permanent": true
+    },
+    {
+      "source": "/otzyv-o-lechenii-igromanii",
+      "destination": "/ru/otzyv-o-lechenii-igromanii",
+      "permanent": true
+    },
+    {
+      "source": "/otzyv-o-lechenii-ot-narkomanii-aleksandr",
+      "destination": "/ru/otzyv-o-lechenii-ot-narkomanii-aleksandr",
+      "permanent": true
+    },
+    {
+      "source": "/otzyv-vsevolod",
+      "destination": "/ru/otzyv-vsevolod",
+      "permanent": true
+    },
+    {
+      "source": "/otzyvy",
+      "destination": "/ru/otzyvy",
+      "permanent": true
+    },
+    {
+      "source": "/otzyvy-nikolay",
+      "destination": "/ru/otzyvy-nikolay",
+      "permanent": true
+    },
+    {
+      "source": "/oznaki-narkomana-njuhajuchogo",
+      "destination": "/uk/oznaki-narkomana-njuhajuchogo",
+      "permanent": true
+    },
+    {
+      "source": "/oznaki-peredozuvannja-narkotikami-persha-dopomoga",
+      "destination": "/uk/oznaki-peredozuvannja-narkotikami-persha-dopomoga",
+      "permanent": true
+    },
+    {
+      "source": "/oznaki-ta-osoblivosti-igrovoi-zalezhnosti",
+      "destination": "/uk/oznaki-ta-osoblivosti-igrovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/oznaki-vzhivannja-narkotikiv-likuvannja-ta-reabilitacija-narkomaniv",
+      "destination": "/uk/oznaki-vzhivannja-narkotikiv-likuvannja-ta-reabilitacija-narkomaniv",
+      "permanent": true
+    },
+    {
+      "source": "/pandemija-zalezhnosti",
+      "destination": "/uk/pandemija-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/pandemija-zavisimosti",
+      "destination": "/ru/pandemija-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/peredozirovka-narkotikami",
+      "destination": "/ru/peredozirovka-narkotikami",
+      "permanent": true
+    },
+    {
+      "source": "/peredozuvannja-narkotikami",
+      "destination": "/uk/peredozuvannja-narkotikami",
+      "permanent": true
+    },
+    {
+      "source": "/pereshkoda-pri-likuvanni-narkomanii-ta-alkogolizmu",
+      "destination": "/uk/pereshkoda-pri-likuvanni-narkomanii-ta-alkogolizmu",
+      "permanent": true
+    },
+    {
+      "source": "/perestante-verit-obeshhanijam",
+      "destination": "/ru/perestante-verit-obeshhanijam",
+      "permanent": true
+    },
+    {
+      "source": "/perestante-viriti-obicjankam",
+      "destination": "/uk/perestante-viriti-obicjankam",
+      "permanent": true
+    },
+    {
+      "source": "/perezagruzka-na-90-dnej",
+      "destination": "/ru/perezagruzka-na-90-dnej",
+      "permanent": true
+    },
+    {
+      "source": "/pidlitkova-narkomanija",
+      "destination": "/uk/pidlitkova-narkomanija",
+      "permanent": true
+    },
+    {
+      "source": "/pislja-likuvannja-zalezhnosti",
+      "destination": "/uk/pislja-likuvannja-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/pivnij-alkogolizm",
+      "destination": "/uk/pivnij-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/pivnoj-alkogolizm",
+      "destination": "/ru/pivnoj-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/planirovanie-i-analiz-dnja",
+      "destination": "/ru/planirovanie-i-analiz-dnja",
+      "permanent": true
+    },
+    {
+      "source": "/planuvannja-ta-analiz-dnja-u-oduzhanni-vid-narkotichnoi-ta-alkogolnoi-zalezhnosti",
+      "destination": "/uk/planuvannja-ta-analiz-dnja-u-oduzhanni-vid-narkotichnoi-ta-alkogolnoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/pobutovij-alkogolizm",
+      "destination": "/uk/pobutovij-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/pochemu-narkomanu-nelzja-upotrebljat-alkogol",
+      "destination": "/ru/pochemu-narkomanu-nelzja-upotrebljat-alkogol",
+      "permanent": true
+    },
+    {
+      "source": "/pochemu-narkozavisimye-sryvajutsja",
+      "destination": "/ru/pochemu-narkozavisimye-sryvajutsja",
+      "permanent": true
+    },
+    {
+      "source": "/pochemu-odni-popadajut-v-zavisimost-a-drugie-net",
+      "destination": "/ru/pochemu-odni-popadajut-v-zavisimost-a-drugie-net",
+      "permanent": true
+    },
+    {
+      "source": "/pochemu-reabilitacija-ne-rabotaet",
+      "destination": "/ru/pochemu-reabilitacija-ne-rabotaet",
+      "permanent": true
+    },
+    {
+      "source": "/pochemu-u-narkomanov-proishodjat-sryvy",
+      "destination": "/ru/pochemu-u-narkomanov-proishodjat-sryvy",
+      "permanent": true
+    },
+    {
+      "source": "/pomoshh-blizkomu",
+      "destination": "/ru/pomoshh-blizkomu",
+      "permanent": true
+    },
+    {
+      "source": "/pomoshh-sozavisimym",
+      "destination": "/ru/pomoshh-sozavisimym",
+      "permanent": true
+    },
+    {
+      "source": "/posledstvija-alkogolizma",
+      "destination": "/ru/posledstvija-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/posledstvija-narkomanii",
+      "destination": "/ru/posledstvija-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/posledstvija-narkotikov",
+      "destination": "/ru/posledstvija-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/posledstvija-ot-narkotikov",
+      "destination": "/ru/posledstvija-ot-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/posledstvija-ot-upotreblenija-solej",
+      "destination": "/ru/posledstvija-ot-upotreblenija-solej",
+      "permanent": true
+    },
+    {
+      "source": "/posluga-likuvannja-narkomanii",
+      "destination": "/uk/posluga-likuvannja-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/posluga-likuvannja-vid-metadonovoi-zalezhnosti",
+      "destination": "/uk/posluga-likuvannja-vid-metadonovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/posluga-likuvannja-vid-solovoi-zalezhnosti",
+      "destination": "/uk/posluga-likuvannja-vid-solovoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/postabstinentnij-sindrom",
+      "destination": "/uk/postabstinentnij-sindrom",
+      "permanent": true
+    },
+    {
+      "source": "/postabstinentnyj-sindrom",
+      "destination": "/ru/postabstinentnyj-sindrom",
+      "permanent": true
+    },
+    {
+      "source": "/pregrada-pri-lechenii-narkomanii-i-alkogolizma",
+      "destination": "/ru/pregrada-pri-lechenii-narkomanii-i-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/presa-pro-nas",
+      "destination": "/uk/presa-pro-nas",
+      "permanent": true
+    },
+    {
+      "source": "/pressa-o-nas",
+      "destination": "/ru/pressa-o-nas",
+      "permanent": true
+    },
+    {
+      "source": "/prichini-ditjachogo-alkogolizmu",
+      "destination": "/uk/prichini-ditjachogo-alkogolizmu",
+      "permanent": true
+    },
+    {
+      "source": "/prichini-ta-faktori-riziku-viniknennja-alkogolizmu",
+      "destination": "/uk/prichini-ta-faktori-riziku-viniknennja-alkogolizmu",
+      "permanent": true
+    },
+    {
+      "source": "/prichiny-detskogo-alkogolizma",
+      "destination": "/ru/prichiny-detskogo-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/prichiny-i-faktory-riska-vozniknovenija-alkogolizma",
+      "destination": "/ru/prichiny-i-faktory-riska-vozniknovenija-alkogolizma",
+      "permanent": true
+    },
+    {
+      "source": "/priznaki-i-osobennosti-igrovoj-zavisimosti",
+      "destination": "/ru/priznaki-i-osobennosti-igrovoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/priznaki-narkomana-njuhajushhego",
+      "destination": "/ru/priznaki-narkomana-njuhajushhego",
+      "permanent": true
+    },
+    {
+      "source": "/priznaki-upotreblenija-narkotikov",
+      "destination": "/ru/priznaki-upotreblenija-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/pro-centr-likuvannja-narkomanii-ta-alkogolizmu-tonus-pljus",
+      "destination": "/uk/pro-centr-likuvannja-narkomanii-ta-alkogolizmu-tonus-pljus",
+      "permanent": true
+    },
+    {
+      "source": "/problema-narkomanii-v-ukraine-dostigaet-vse-bolshih-masshtabov",
+      "destination": "/ru/problema-narkomanii-v-ukraine-dostigaet-vse-bolshih-masshtabov",
+      "permanent": true
+    },
+    {
+      "source": "/problema-narkomanii-v-ukraini-dosjagaie-vse-bilshih-masshtabiv",
+      "destination": "/uk/problema-narkomanii-v-ukraini-dosjagaie-vse-bilshih-masshtabiv",
+      "permanent": true
+    },
+    {
+      "source": "/programa-reabilitacii-narkozalezhnih-ta-alkozalezhnih-2",
+      "destination": "/uk/programa-reabilitacii-narkozalezhnih-ta-alkozalezhnih-2",
+      "permanent": true
+    },
+    {
+      "source": "/programma-reabilitacii",
+      "destination": "/ru/programma-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/psihicheskie-rasstrojstva",
+      "destination": "/ru/psihicheskie-rasstrojstva",
+      "permanent": true
+    },
+    {
+      "source": "/psihicheskie-zabolevanija-narkomanov-i-alkogolikov",
+      "destination": "/ru/psihicheskie-zabolevanija-narkomanov-i-alkogolikov",
+      "permanent": true
+    },
+    {
+      "source": "/psihichni-rozladi-pri-vzhivanni-narkotikiv",
+      "destination": "/uk/psihichni-rozladi-pri-vzhivanni-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/psihichni-zahvorjuvannja-narkomaniv-ta-alkogolikiv",
+      "destination": "/uk/psihichni-zahvorjuvannja-narkomaniv-ta-alkogolikiv",
+      "permanent": true
+    },
+    {
+      "source": "/psihologicheskie-rasstrojstva",
+      "destination": "/ru/psihologicheskie-rasstrojstva",
+      "permanent": true
+    },
+    {
+      "source": "/psihologichni-rozladi-pri-vzhivanni-narkotikiv-ta-alkogolju",
+      "destination": "/uk/psihologichni-rozladi-pri-vzhivanni-narkotikiv-ta-alkogolju",
+      "permanent": true
+    },
+    {
+      "source": "/psihosocialna-reabilitacija-dlja-likuvannja-zalezhnosti-vid-narkotikiv-ta-alkogolju",
+      "destination": "/uk/psihosocialna-reabilitacija-dlja-likuvannja-zalezhnosti-vid-narkotikiv-ta-alkogolju",
+      "permanent": true
+    },
+    {
+      "source": "/psihosocialnaja-reabilitacija",
+      "destination": "/ru/psihosocialnaja-reabilitacija",
+      "permanent": true
+    },
+    {
+      "source": "/psihostimuljatori-ujavna-shvidkist",
+      "destination": "/uk/psihostimuljatori-ujavna-shvidkist",
+      "permanent": true
+    },
+    {
+      "source": "/psihostimuljatory-mnimaja-skorost",
+      "destination": "/ru/psihostimuljatory-mnimaja-skorost",
+      "permanent": true
+    },
+    {
+      "source": "/psihoterapija-jak-osnovna-disciplina-u-podolanni-zalezhnosti",
+      "destination": "/uk/psihoterapija-jak-osnovna-disciplina-u-podolanni-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/psihoterapija-kak-osnovnaja-disciplina-v-preodolenii-zavisimosti",
+      "destination": "/ru/psihoterapija-kak-osnovnaja-disciplina-v-preodolenii-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/rabota-v-komande",
+      "destination": "/ru/rabota-v-komande",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-alkozalezhnih-u-kiievi",
+      "destination": "/uk/reabilitacija-alkozalezhnih-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-alkozavisimyh-v-kieve",
+      "destination": "/ru/reabilitacija-alkozavisimyh-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-igromanii-u-kiievi",
+      "destination": "/uk/reabilitacija-igromanii-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-igromanii-v-kieve",
+      "destination": "/ru/reabilitacija-igromanii-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-narko-zavisimyh-v-kieve",
+      "destination": "/ru/reabilitacija-narko-zavisimyh-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-narkozalezhnih-chi-jak-povernutisja-do-normalnogo-zhittja-ta-ne-dopustiti-povtornih-zriviv",
+      "destination": "/uk/reabilitacija-narkozalezhnih-chi-jak-povernutisja-do-normalnogo-zhittja-ta-ne-dopustiti-povtornih-zriviv",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-narkozalezhnyh-u-kiievi",
+      "destination": "/uk/reabilitacija-narkozalezhnyh-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-narkozavisimyh-ili-kak-vernutsja-k-normalnoj-zhizni-i-ne-dopustit-povtornyh-sryvov",
+      "destination": "/ru/reabilitacija-narkozavisimyh-ili-kak-vernutsja-k-normalnoj-zhizni-i-ne-dopustit-povtornyh-sryvov",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-narkozavisimyyh-v-kieve",
+      "destination": "/ru/reabilitacija-narkozavisimyyh-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-zalezhnosti-vid-metadonu",
+      "destination": "/uk/reabilitacija-zalezhnosti-vid-metadonu",
+      "permanent": true
+    },
+    {
+      "source": "/reabilitacija-zalezhnosti-vid-solej-alfa-pvp",
+      "destination": "/uk/reabilitacija-zalezhnosti-vid-solej-alfa-pvp",
+      "permanent": true
+    },
+    {
+      "source": "/recept-vyzdorovlenija-ot-narkoticheskoj-i-alkogolnoj-zavisimosti",
+      "destination": "/ru/recept-vyzdorovlenija-ot-narkoticheskoj-i-alkogolnoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/rekomendacii-posle-reabilitacii",
+      "destination": "/ru/rekomendacii-posle-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/resocializacija-narkozalezhnih-alkozalezhnih",
+      "destination": "/uk/resocializacija-narkozalezhnih-alkozalezhnih",
+      "permanent": true
+    },
+    {
+      "source": "/resocializacija-narkozavisimyh-alkozavisimyh",
+      "destination": "/ru/resocializacija-narkozavisimyh-alkozavisimyh",
+      "permanent": true
+    },
+    {
+      "source": "/rol-emocijnoi-sferi-pri-likuvanni-himichnoi-zalezhnosti",
+      "destination": "/uk/rol-emocijnoi-sferi-pri-likuvanni-himichnoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/rol-jemocionalnoj-sfery-pri-lechenii-himicheskoj-zavisimosti",
+      "destination": "/ru/rol-jemocionalnoj-sfery-pri-lechenii-himicheskoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/rol-lichnostnyh-adaptacij-v-reabilitacii-narkomanii",
+      "destination": "/ru/rol-lichnostnyh-adaptacij-v-reabilitacii-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/rol-osobistisnih-adaptacij-u-reabilitacii-narkomanii",
+      "destination": "/uk/rol-osobistisnih-adaptacij-u-reabilitacii-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/rol-rodichiv-u-likuvanni-narkomanii",
+      "destination": "/uk/rol-rodichiv-u-likuvanni-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/rol-rodstvennikov-v-lechenii-narkomanii",
+      "destination": "/ru/rol-rodstvennikov-v-lechenii-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/ru",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/shherbata-julija-v-jacheslavivna-likar-psihiatr",
+      "destination": "/uk/shherbata-julija-v-jacheslavivna-likar-psihiatr",
+      "permanent": true
+    },
+    {
+      "source": "/shherbata-julija-vjacheslavovna",
+      "destination": "/ru/shherbata-julija-vjacheslavovna",
+      "permanent": true
+    },
+    {
+      "source": "/shho-pidshtovhuie-pidlitkiv-do-narkotikiv",
+      "destination": "/uk/shho-pidshtovhuie-pidlitkiv-do-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/shho-robiti-druzhini-narkomana",
+      "destination": "/uk/shho-robiti-druzhini-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/shho-robiti-jakshho-vasha-ditina-narkoman",
+      "destination": "/uk/shho-robiti-jakshho-vasha-ditina-narkoman",
+      "permanent": true
+    },
+    {
+      "source": "/shho-take-bila-garjachka-simptomi-ta-naslidki",
+      "destination": "/uk/shho-take-bila-garjachka-simptomi-ta-naslidki",
+      "permanent": true
+    },
+    {
+      "source": "/shho-take-himichna-zalezhnist",
+      "destination": "/uk/shho-take-himichna-zalezhnist",
+      "permanent": true
+    },
+    {
+      "source": "/shho-take-reabilitacija-narkozalezhnih",
+      "destination": "/uk/shho-take-reabilitacija-narkozalezhnih",
+      "permanent": true
+    },
+    {
+      "source": "/shho-take-snjusi-ta-nasvaj-jaka-vid-nih-shkoda-dlja-organizmu",
+      "destination": "/uk/shho-take-snjusi-ta-nasvaj-jaka-vid-nih-shkoda-dlja-organizmu",
+      "permanent": true
+    },
+    {
+      "source": "/shhodennik-pochuttiv",
+      "destination": "/uk/shhodennik-pochuttiv",
+      "permanent": true
+    },
+    {
+      "source": "/shvidki-narkotiki",
+      "destination": "/uk/shvidki-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/sinteticheskie-narkotiki",
+      "destination": "/ru/sinteticheskie-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/sintetichni-narkotiki",
+      "destination": "/uk/sintetichni-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/smertelnij-narkotik-veselij-gaz-zakis-azotu",
+      "destination": "/uk/smertelnij-narkotik-veselij-gaz-zakis-azotu",
+      "permanent": true
+    },
+    {
+      "source": "/sniper",
+      "destination": "/ru/sniper",
+      "permanent": true
+    },
+    {
+      "source": "/snjatie-lomki-kiev",
+      "destination": "/ru/snjatie-lomki-kiev",
+      "permanent": true
+    },
+    {
+      "source": "/snjatie-lomki-v-domashnih-uslovijah",
+      "destination": "/ru/snjatie-lomki-v-domashnih-uslovijah",
+      "permanent": true
+    },
+    {
+      "source": "/soli-miksi-spajsi",
+      "destination": "/uk/soli-miksi-spajsi",
+      "permanent": true
+    },
+    {
+      "source": "/soli-miksy-spajsy",
+      "destination": "/ru/soli-miksy-spajsy",
+      "permanent": true
+    },
+    {
+      "source": "/sovety-psihologa-roditeljam-narkomana",
+      "destination": "/ru/sovety-psihologa-roditeljam-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/sozavisimost-mif-ili-bolezn",
+      "destination": "/ru/sozavisimost-mif-ili-bolezn",
+      "permanent": true
+    },
+    {
+      "source": "/sozavisimost-pri-alkogolizme-i-narkomanii",
+      "destination": "/ru/sozavisimost-pri-alkogolizme-i-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/spaisiuk",
+      "destination": "/uk/spaisiuk",
+      "permanent": true
+    },
+    {
+      "source": "/spivzalezhnist-mif-chi-hvoroba",
+      "destination": "/uk/spivzalezhnist-mif-chi-hvoroba",
+      "permanent": true
+    },
+    {
+      "source": "/sroki-reabilitacii",
+      "destination": "/ru/sroki-reabilitacii",
+      "permanent": true
+    },
+    {
+      "source": "/sryv-90-dnej",
+      "destination": "/ru/sryv-90-dnej",
+      "permanent": true
+    },
+    {
+      "source": "/sryv-sryvnoj-process",
+      "destination": "/ru/sryv-sryvnoj-process",
+      "permanent": true
+    },
+    {
+      "source": "/sryv-v-vyzdorovlenii-ot-narkotikov",
+      "destination": "/ru/sryv-v-vyzdorovlenii-ot-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/stadii-narkoticheskoj-zavisimosti",
+      "destination": "/ru/stadii-narkoticheskoj-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/stadii-narkotichnoi-zalezhnosti",
+      "destination": "/uk/stadii-narkotichnoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/stadii-razvitija-him-zavisimosti",
+      "destination": "/ru/stadii-razvitija-him-zavisimosti",
+      "permanent": true
+    },
+    {
+      "source": "/stadii-rozvitku-himichnoi-zalezhnosti",
+      "destination": "/uk/stadii-rozvitku-himichnoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/stoimost-reabilitacii-narkozavisimyh-i-alkozavisimyh-v-kieve",
+      "destination": "/ru/stoimost-reabilitacii-narkozavisimyh-i-alkozavisimyh-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/sushhestvuet-li-medicinskoe-lechenie-narkomanii",
+      "destination": "/ru/sushhestvuet-li-medicinskoe-lechenie-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/terapevticheskaja-sreda",
+      "destination": "/ru/terapevticheskaja-sreda",
+      "permanent": true
+    },
+    {
+      "source": "/terapevticheskoe-soobshhestvo",
+      "destination": "/ru/terapevticheskoe-soobshhestvo",
+      "permanent": true
+    },
+    {
+      "source": "/terapevtichna-spilnota",
+      "destination": "/uk/terapevtichna-spilnota",
+      "permanent": true
+    },
+    {
+      "source": "/terapevtichne-seredovishhe",
+      "destination": "/uk/terapevtichne-seredovishhe",
+      "permanent": true
+    },
+    {
+      "source": "/termini-reabilitacii-narkozalezhnih-ta-alkozalezhnih",
+      "destination": "/uk/termini-reabilitacii-narkozalezhnih-ta-alkozalezhnih",
+      "permanent": true
+    },
+    {
+      "source": "/test-na-himicheskuju-zavisimost",
+      "destination": "/ru/test-na-himicheskuju-zavisimost",
+      "permanent": true
+    },
+    {
+      "source": "/test-na-narkotichni-rechovini-instrukcija-ta-vidminnosti",
+      "destination": "/uk/test-na-narkotichni-rechovini-instrukcija-ta-vidminnosti",
+      "permanent": true
+    },
+    {
+      "source": "/testi-na-narkotiki",
+      "destination": "/uk/testi-na-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/testy-na-narkotiki",
+      "destination": "/ru/testy-na-narkotiki",
+      "permanent": true
+    },
+    {
+      "source": "/tipi-narkotichnih-zalezhnostej",
+      "destination": "/uk/tipi-narkotichnih-zalezhnostej",
+      "permanent": true
+    },
+    {
+      "source": "/tipy-narkoticheskih-zavisimostej",
+      "destination": "/ru/tipy-narkoticheskih-zavisimostej",
+      "permanent": true
+    },
+    {
+      "source": "/tjaga-do-narkotikiv-ta-sposobi-borotbi-z-neju",
+      "destination": "/uk/tjaga-do-narkotikiv-ta-sposobi-borotbi-z-neju",
+      "permanent": true
+    },
+    {
+      "source": "/tjaga-do-vzhivannja-narkotikiv-chi-alkogolju-jak-uporatisja",
+      "destination": "/uk/tjaga-do-vzhivannja-narkotikiv-chi-alkogolju-jak-uporatisja",
+      "permanent": true
+    },
+    {
+      "source": "/tjaga-k-narkotikam-i-sposoby-borby-s-nej",
+      "destination": "/ru/tjaga-k-narkotikam-i-sposoby-borby-s-nej",
+      "permanent": true
+    },
+    {
+      "source": "/tjaga-k-upotrebleniju",
+      "destination": "/ru/tjaga-k-upotrebleniju",
+      "permanent": true
+    },
+    {
+      "source": "/transaktnij-analiz-osobistosti-zalezhnoi-ljudini-kontominacija",
+      "destination": "/uk/transaktnij-analiz-osobistosti-zalezhnoi-ljudini-kontominacija",
+      "permanent": true
+    },
+    {
+      "source": "/tranzaktnij-analiz-osobistosti-u-likuvanni-narkomanii",
+      "destination": "/uk/tranzaktnij-analiz-osobistosti-u-likuvanni-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/tranzaktnij-analiz-u-terapii-zalezhnosti",
+      "destination": "/uk/tranzaktnij-analiz-u-terapii-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/tranzaktnyj-analiz",
+      "destination": "/ru/tranzaktnyj-analiz",
+      "permanent": true
+    },
+    {
+      "source": "/tranzaktnyj-analiz-lichnosti-v-lechenii-narkomanii",
+      "destination": "/ru/tranzaktnyj-analiz-lichnosti-v-lechenii-narkomanii",
+      "permanent": true
+    },
+    {
+      "source": "/trezvost",
+      "destination": "/ru/trezvost",
+      "permanent": true
+    },
+    {
+      "source": "/tverezist",
+      "destination": "/uk/tverezist",
+      "permanent": true
+    },
+    {
+      "source": "/ubod-detoksikacija",
+      "destination": "/ru/ubod-detoksikacija",
+      "permanent": true
+    },
+    {
+      "source": "/uk",
+      "destination": "/uk/home",
+      "permanent": true
+    },
+    {
+      "source": "/uljubleni-liki-narkomana",
+      "destination": "/uk/uljubleni-liki-narkomana",
+      "permanent": true
+    },
+    {
+      "source": "/ushod-ultrashvidka-opioidna-detoksikacija",
+      "destination": "/uk/ushod-ultrashvidka-opioidna-detoksikacija",
+      "permanent": true
+    },
+    {
+      "source": "/vartist-reabilitacii-narkozalezhnih-ta-alkozalezhnih-u-kiievi",
+      "destination": "/uk/vartist-reabilitacii-narkozalezhnih-ta-alkozalezhnih-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/vibir-likuvalnogo-zakladu",
+      "destination": "/uk/vibir-likuvalnogo-zakladu",
+      "permanent": true
+    },
+    {
+      "source": "/vidguk-pro-likuvannja-vid-igromanii",
+      "destination": "/uk/vidguk-pro-likuvannja-vid-igromanii",
+      "permanent": true
+    },
+    {
+      "source": "/vidguk-pro-likuvannja-vid-narkomanii-oleksandr",
+      "destination": "/uk/vidguk-pro-likuvannja-vid-narkomanii-oleksandr",
+      "permanent": true
+    },
+    {
+      "source": "/vidguk-pro-reabilitaciju-narkomanii-igor-18-rokiv",
+      "destination": "/uk/vidguk-pro-reabilitaciju-narkomanii-igor-18-rokiv",
+      "permanent": true
+    },
+    {
+      "source": "/vidi-narkotikiv",
+      "destination": "/uk/vidi-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/vidi-ta-klasifikacija-narkotikiv",
+      "destination": "/uk/vidi-ta-klasifikacija-narkotikiv",
+      "permanent": true
+    },
+    {
+      "source": "/vidsutnist-bazhannja-na-likuvannja",
+      "destination": "/uk/vidsutnist-bazhannja-na-likuvannja",
+      "permanent": true
+    },
+    {
+      "source": "/vidy-blokatorov-ot-alkogolja",
+      "destination": "/ru/vidy-blokatorov-ot-alkogolja",
+      "permanent": true
+    },
+    {
+      "source": "/vidy-i-klassifikacija-narkotikov",
+      "destination": "/ru/vidy-i-klassifikacija-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/vidy-narkotikov",
+      "destination": "/ru/vidy-narkotikov",
+      "permanent": true
+    },
+    {
+      "source": "/vivedennja-iz-zapoju-v-kiievi-v-stacionari-ta-vdoma",
+      "destination": "/uk/vivedennja-iz-zapoju-v-kiievi-v-stacionari-ta-vdoma",
+      "permanent": true
+    },
+    {
+      "source": "/vlijanie-spajsov-na-organizm-cheloveka",
+      "destination": "/ru/vlijanie-spajsov-na-organizm-cheloveka",
+      "permanent": true
+    },
+    {
+      "source": "/vpliv-spajsiv-na-organizm-ljudini",
+      "destination": "/uk/vpliv-spajsiv-na-organizm-ljudini",
+      "permanent": true
+    },
+    {
+      "source": "/vrach-narkolog-na-dom-v-kieve",
+      "destination": "/ru/vrach-narkolog-na-dom-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/vse-pro-lechenie-narkomanii-v-kieve",
+      "destination": "/ru/vse-pro-lechenie-narkomanii-v-kieve",
+      "permanent": true
+    },
+    {
+      "source": "/vse-pro-likuvannja-narkomanii-u-kiievi",
+      "destination": "/uk/vse-pro-likuvannja-narkomanii-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/vybor-lechebnogo-uchrezhdenija",
+      "destination": "/ru/vybor-lechebnogo-uchrezhdenija",
+      "permanent": true
+    },
+    {
+      "source": "/vyvod-iz-zapoja-kiev",
+      "destination": "/ru/vyvod-iz-zapoja-kiev",
+      "permanent": true
+    },
+    {
+      "source": "/za-reklamu-narkotikiv-saditimut-u-v-jaznicju",
+      "destination": "/uk/za-reklamu-narkotikiv-saditimut-u-v-jaznicju",
+      "permanent": true
+    },
+    {
+      "source": "/za-reklamu-narkotikov-budut-sazhat-v-tjurmu",
+      "destination": "/ru/za-reklamu-narkotikov-budut-sazhat-v-tjurmu",
+      "permanent": true
+    },
+    {
+      "source": "/zalezhnist-hvoroba",
+      "destination": "/uk/zalezhnist-hvoroba",
+      "permanent": true
+    },
+    {
+      "source": "/zalezhnist-jak-bio-psiho-socio-duhovna-hvoroba-chi-spotvorennja-osobistosti",
+      "destination": "/uk/zalezhnist-jak-bio-psiho-socio-duhovna-hvoroba-chi-spotvorennja-osobistosti",
+      "permanent": true
+    },
+    {
+      "source": "/zaperechennja-zalezhnimi-u-oduzhanni",
+      "destination": "/uk/zaperechennja-zalezhnimi-u-oduzhanni",
+      "permanent": true
+    },
+    {
+      "source": "/zavisimost-bolezn",
+      "destination": "/ru/zavisimost-bolezn",
+      "permanent": true
+    },
+    {
+      "source": "/zavisimost-ili-iskazhenie-lichnosti",
+      "destination": "/ru/zavisimost-ili-iskazhenie-lichnosti",
+      "permanent": true
+    },
+    {
+      "source": "/zavisimost-ot-solej",
+      "destination": "/ru/zavisimost-ot-solej",
+      "permanent": true
+    },
+    {
+      "source": "/zhenskij-alkogolizm",
+      "destination": "/ru/zhenskij-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/zhinochij-alkogolizm",
+      "destination": "/uk/zhinochij-alkogolizm",
+      "permanent": true
+    },
+    {
+      "source": "/zhjostkaja-ljubov",
+      "destination": "/ru/zhjostkaja-ljubov",
+      "permanent": true
+    },
+    {
+      "source": "/zhorstke-kohannja",
+      "destination": "/uk/zhorstke-kohannja",
+      "permanent": true
+    },
+    {
+      "source": "/znjattja-narkotichnoi-lomki-u-kiievi",
+      "destination": "/uk/znjattja-narkotichnoi-lomki-u-kiievi",
+      "permanent": true
+    },
+    {
+      "source": "/znjattja-narkotichnoi-lomki-v-domashnih-umovah",
+      "destination": "/uk/znjattja-narkotichnoi-lomki-v-domashnih-umovah",
+      "permanent": true
+    },
+    {
+      "source": "/zriv-u-oduzhanni-vid-narkotichnoi-zalezhnosti",
+      "destination": "/uk/zriv-u-oduzhanni-vid-narkotichnoi-zalezhnosti",
+      "permanent": true
+    },
+    {
+      "source": "/zriv-zrivnij-proces-recediv-u-oduzhanni-vid-narkozalezhnosti-ta-alkogolizmu",
+      "destination": "/uk/zriv-zrivnij-proces-recediv-u-oduzhanni-vid-narkozalezhnosti-ta-alkogolizmu",
+      "permanent": true
+    }
+  ]
 }
